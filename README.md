@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm FDL ID </h1>
-<h3 align="center">A passionate Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">A passionate Software Developer  from Indonesia <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
@@ -41,9 +41,9 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <img align="right" src="https://komarev.com/ghpvc/?username=FDLID" alt="FDLID" />
 </summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felippegh&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdlid&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippegh&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdlid&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 <p>
 <i>
@@ -87,5 +87,5 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <div align="center">
 <h3>Support</h3>
-<p><a href="https://saweria.co/fdlid"> <img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png)https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" height="50" width="210" alt="ItsShyam" /></a></p>
+<p><a href="https://saweria.co/fdlid"> <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" height="50" width="210" alt="FDLID" /></a></p>
 </div>
