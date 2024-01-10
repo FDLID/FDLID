@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm FDL ID </h1>
-<h3 align="center">A passionate Software Developer  from Indonesia <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">A passionate Software Developer  from Indonesia <img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/ID-Indonesia-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
@@ -12,7 +12,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </div>
 
 <div>
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
 <br>
@@ -20,11 +20,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <br>
 
-  <div>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/FDLID?tab=repositories)
-
-</div>
 <br>
 <br>
 <br>
