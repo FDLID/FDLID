@@ -12,7 +12,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </div>
 
 <div>
-<img align="center" alt="GIF" src="https://i.gifer.com/2zKU.gif" />
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/44/a8/da/44a8dabf0e4bf6e2616cd0f6d0ce5912.gif" />
 </div>
 
 <br>
