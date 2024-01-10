@@ -12,7 +12,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </div>
 
 <div>
-<img align="center" alt="GIF" src="https://i.gifer.com/embedded/download/53Bk.gif" />
+<img align="center" alt="GIF" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" />
 </div>
 
 <br>
