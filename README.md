@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm FDL ID </h1>
-<h3 align="center">A passionate Software Developer  from Indonesia <img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/ID-Indonesia-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h3 align="center">"Developer Apa Aja Tergantung Dana & Mood"  from Indonesia <img src="https://icons.iconarchive.com/icons/wikipedia/flags/256/ID-Indonesia-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
