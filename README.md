@@ -69,5 +69,5 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <div align="center">
 <h3>Support</h3>
-<p><a href="https://saweria.co/fdlid"> <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" height="50" width="210" alt="FDLID" /></a></p>
+<p><a href="#"> <img src="https://i.pinimg.com/736x/0d/b7/f9/0db7f97d22d35f8232851e34fd133ea6.jpg" height="50" width="210" alt="FDLID" /></a></p>
 </div>
