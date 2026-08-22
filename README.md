@@ -66,8 +66,4 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 </div>
 
-<br>
-<div align="center">
-<h3>Support</h3>
-<p><a href="#"> <img src="https://i.pinimg.com/736x/0d/b7/f9/0db7f97d22d35f8232851e34fd133ea6.jpg" height="50" width="210" alt="FDLID" /></a></p>
-</div>
+
